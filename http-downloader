@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 http_downloader.py $1 $2
